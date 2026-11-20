@@ -1,0 +1,6 @@
+{"slug":"teste","slides":[
+{"type":"capa","tag":"URGENTE · MERCADO","title":"Maior IPO da história","highlight":"-13%","hl_color":"red","subtitle":"quem comprou na abertura","bg":"/home/claude/v7/lesson_src_c.jpg"},
+{"type":"dado","kicker":"O QUE ACONTECEU","big":"US$ 81,3 BI","big_color":"green","text":"A Anthropic, dona do Claude, estreou na Nasdaq com o maior IPO da história, acima da SpaceX."},
+{"type":"lista","kicker":"OS NÚMEROS DA ESTREIA","items":[["Preço do IPO","US$ 83"],["Abertura","US$ 111,50 (+34%)"],["Máxima","US$ 115,10"],["Fechamento","US$ 97,17 (-13% da abertura)"]]},
+{"type":"texto","kicker":"A LIÇÃO","title":"Notícia não é entrada","text":"Quem compra no hype, sem região e sem plano, paga o preço mais caro da festa."},
+{"type":"cta","title":"Salva e compartilha","text":"Quer aprender a ler o gráfico antes de apertar o botão?","fonte":"Fontes: B3, Forbes, CNBC, NBC"}]}

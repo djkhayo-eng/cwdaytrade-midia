@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python-headless
+pillow
+librosa
+soundfile
+ai-edge-litert
